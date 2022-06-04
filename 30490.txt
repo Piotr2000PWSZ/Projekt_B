@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 janusz 
+=======
+mateusz
+>>>>>>> 701df89 (drugi commit - mateusz)
+
+jendak janusz
